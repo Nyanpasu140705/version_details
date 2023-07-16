@@ -1,11 +1,30 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<video width="2304" height="4096" autoplay muted>
-  <source src="genshin-impact-archons3840x2160_SF41ig3H.mp4" type="video/mp4">
-
-</video>
-
-</body>
-</html>
+3.8
+Secret Summer Paradise
+...
+Klee
+Eula
+Kokomi
+Wanderer
+...
+Veluriyam Mirage(Temporary area)
+...
+Secret Summer Paradise#
+#Spino Blaster
+#Dance of Flashing Thought
+#Sojourns of the Barking Fox
+#Bing-Bang Finchball
+Adventurer's Trials: Advanced
+Vivid Illumination
+...
+NO ARCHON QUEST
+...
+NO STORY QUEST
+...
+Kaeya Hangout Series 1
+...
+OUTFITS: 
+Sailwind Shadow(Kaeya, 4star outfit, obtainable for free in 3.8 event)
+Blossoming Starlight(Klee, 4star outfit, obtainable at a discounted price during 3.8, after which permanently available in shop)
+...
+https://www.hoyolab.com/article/19815297
+....
