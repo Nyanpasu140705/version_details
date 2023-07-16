@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<video width="2304" height="4096" autoplay muted>
+  <source src="genshin-impact-archons3840x2160_SF41ig3H.mp4" type="video/mp4">
+
+</video>
+
+</body>
+</html>
