@@ -1,10 +1,10 @@
 3.8
 Secret Summer Paradise
 ...
-Klee
-Eula
-Kokomi
-Wanderer
+1Klee
+1Eula
+2Kokomi
+2Wanderer
 ...
 Veluriyam Mirage(Temporary area)
 ...
